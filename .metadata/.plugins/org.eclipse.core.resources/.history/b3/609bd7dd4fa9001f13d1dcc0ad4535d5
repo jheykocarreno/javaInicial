@@ -1,0 +1,11 @@
+package HolaMundo;
+
+public class HolaMundoC {
+	public static void main(String[] args) {
+		
+		//clase3
+		Alumno alu1 = new Alumno();
+		Alumno alu2 = new Alumno(1, "Luis", "Marca");
+		
+	}
+}

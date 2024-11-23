@@ -5,7 +5,7 @@ public class HolaMundoC {
 		
 		//clase3
 		Alumno alu1 = new Alumno();
-		Alumno alu2 = new Alumno(3, "Luis", "Marca");
+		Alumno alu2 = new Alumno(2, "Luis", "Marca");
 		//clase3
 		//clase4
 		System.out.println("la ID del alumno 2: " + alu2.getId());
@@ -13,9 +13,6 @@ public class HolaMundoC {
 		
 		alu1.setId(1);
 		System.out.println("la ID del alumno 1: " + alu1.getId());
-		
-		alu2.setId(2);
-		System.out.println("la ID del alumno 2: " + alu2.getId());
 		//clase4
 	}
 }

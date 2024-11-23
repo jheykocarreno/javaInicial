@@ -13,7 +13,6 @@ public class HolaMundoC {
 		
 		alu1.setId(1);
 		System.out.println("la ID del alumno 1: " + alu1.getId());
-		
 		alu2.setId(2);
 		System.out.println("la ID del alumno 2: " + alu2.getId());
 		//clase4
