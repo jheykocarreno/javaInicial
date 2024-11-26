@@ -21,5 +21,9 @@ public class HerenciaMain {
 		vector[2] = new Consultor();
 		vector[3] = new Jefe();
 		
+		Persona perso = new Persona();
+		Consultor consul = new Consultor();
+		
+		perso = consul;
 		}
 }
